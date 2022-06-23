@@ -1,0 +1,183 @@
+[
+  {
+    "name": "Amazon Clone",
+    "img": "https://i.postimg.cc/CxN5x16v/aqAQHB9.png",
+    "website": "https://clone-a6531.web.app/",
+    "github": "https://github.com/Yeasirarafat53/ema-john",
+    "description": "The Amazon-Clone website is like a mini amazon full-stack website. Users add products in the basket, remove products in the Checkout Page.After Proceed the checkout then find a simple payment system with Stripe Payment method which will give payment id. And User will see their order details in order page. Sign in and sign out with Firebase authentication and automated detect users.",
+    "technology": [
+      "React",
+      "Stripe",
+      "Material-UI",
+      "Firebase",
+      "CSS3",
+      "HTML5",
+      "Node",
+      "Express",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "E-commerce",
+    "img": "https://i.postimg.cc/htPHzyHC/cart.png",
+    "website": "https://genuine-strudel-f976a8.netlify.app/",
+    "github": "https://github.com/Yeasirarafat53/e-commerce",
+    "description": "The E-commerce website is like a mini amazon website. Users add products in the basket, remove products in the Checkout Page.After Proceed the checkout then find a simple payment system with Stripe Payment method which will give payment id. And User will see their order details in order page. Sign in and sign out with Firebase authentication and automated detect users.",
+    "technology": [
+      "React",
+      "Api",
+      "Local Storage",
+      "Material-UI",
+      "Firebase",
+      "CSS3",
+      "HTML5",
+      "Bootstrap"
+    ]
+  },
+  {
+    "name": "Techy",
+    "img": "https://i.postimg.cc/Kv1fYQy2/tech.png",
+    "website": "https://genuine-strudel-f976a8.netlify.app/",
+    "github": "https://github.com/Yeasirarafat53/FlexStart",
+    "description": "this is fully responsive front-end website homepage design.i have used it here animate on scroll library, swiper and bootstrap for responsive.  Clients need simple but effective design for their customer.",
+    "technology": ["Bootstrap", "CSS3", "HTML5","AOS","Swiper"]
+  },
+  {
+    "name": "MERN CRUD App",
+    "img": "https://i.postimg.cc/L82cHZ0t/cruds.png",
+    "website": "https://mern-crud17.netlify.app/",
+    "github": "https://github.com/Yeasirarafat53/crud-app",
+    "description": "This is mern crud application. it's fully responsive and nicely design application.Users can create their own products and customize her products and if you want you can update your products , see your products details and remove your products.all products are store in mongodb.",
+    "technology": [
+      "React",
+      "Bootstrap",
+      "CSS3",
+      "HTML5",
+      "Node",
+      "Express",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "Burj Al-Arab",
+    "img": "https://i.postimg.cc/SNS11k0N/burj-al-arab.png",
+    "website": "https://clone-a6531.web.app/",
+    "github": "https://github.com/Yeasirarafat53/burj-al-arab",
+    "description": "The Amazon-Clone website is like a mini amazon full-stack website. Users add products in the basket, remove products in the Checkout Page.After Proceed the checkout then find a simple payment system with Stripe Payment method which will give payment id. And User will see their order details in order page. Sign in and sign out with Firebase authentication and automated detect users.",
+    "technology": [
+      "React",
+      "Stripe",
+      "Material-UI",
+      "Firebase",
+      "CSS3",
+      "HTML5",
+      "Node",
+      "Express",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "Volunteer Network",
+    "img": "https://i.ibb.co/7p34V8G/volunteer-network.png",
+    "website": "https://volunteer-network-d9618.web.app/",
+    "github": "https://github.com/masud309060/volunteer-network",
+    "description": "A non-profit social organization who works for different positive activities. For that they need some volunteers to maintain activities. people connect here by this site of his own free will. One will join more than one activities and work his available time.Fully responsive and awesome landing UI design.",
+    "technology": [
+      "React",
+      "Material-UI",
+      "Firebase",
+      "CSS3",
+      "HTML5",
+      "Node",
+      "Express",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "Travel Guru",
+    "img": "https://i.postimg.cc/L5bGmGc4/travel-guru.png",
+    "website": "https://travel-guru-1db67.web.app/",
+    "github": "https://github.com/masud309060/travel-guru",
+    "description": "Basically a travel hotel booking site. Find best hotel package within reasonable range. You can select a place which will route you a new booking page.That will show some hotel and show the hotle location with google map.",
+    "technology": [
+      "React",
+      "Material-UI",
+      "Firebase",
+      "Bootstrap",
+      "CSS3",
+      "HTML5"
+    ]
+  },
+  {
+    "name": "Hard Rock",
+    "img": "https://i.postimg.cc/BQ5wYL6Q/EMXzjin.png",
+    "website": "https://yeasirarafat53.github.io/SongLyrics/",
+    "github": "https://yeasirarafat53.github.io/SongLyrics/",
+    "description": "Athena is like a service provider website. Fully responsive and awesome landing UI design. Supported any type of devices. Responsive application, attractive card design .",
+    "technology": ["Bootstrap", "CSS3", "HTML5"]
+  },
+  {
+    "name": "Hot Gadgets",
+    "img": "https://i.postimg.cc/tRBmPK7B/VmXyWCa.png",
+    "website": "https://yeasirarafat53.github.io/assignment-2/index.html",
+    "github": "https://github.com/Yeasirarafat53/assignment-2",
+    "description": "An online sells market website homepage design. Clients need simple but effective design for their customer.Fully responsive and awesome landing UI design",
+    "technology": ["Bootstrap", "CSS3", "HTML5"]
+  },
+  {
+    "name": "E- School",
+    "img": "https://i.ibb.co/SRbxrf0/e-school.png",
+    "website": "https://yeasirarafat53.github.io/E-school/index.html",
+    "github": "https://github.com/Yeasirarafat53/E-school",
+    "description": "An online based school website designed. Its a gorgeous looking simple site made by HTML5, pure CSS, and Bootstrap-4. ",
+    "technology": ["Bootstrap", "CSS3", "HTML5"]
+  },
+  {
+    "name": "Pin Matcher",
+    "img": "https://i.postimg.cc/5jczL9zH/CgfXAaW.png",
+    "website": "https://yeasirarafat53.github.io/pin-matcher/",
+    "github": "https://github.com/Yeasirarafat53/pin-matcher",
+    "description": "An online sells market website homepage design. Clients need simple but effective design for their customer.",
+    "technology": ["Bootstrap", "CSS3", "HTML5"]
+  },
+  {
+    "name": "AB Bank",
+    "img": "https://i.postimg.cc/fR8xgsnP/DrNVyO6.png",
+    "website": "https://yeasirarafat53.github.io/AB-Bank/",
+    "github": "https://github.com/Yeasirarafat53/AB-Bank",
+    "description": "An online sells market website homepage design. Clients need simple but effective design for their customer.",
+    "technology": ["Bootstrap", "CSS3", "HTML5"]
+  },
+  {
+    "name": "Panda Commerce",
+    "img": "https://i.postimg.cc/sxM81mPj/ClwUoXf.png",
+    "website": "https://yeasirarafat53.github.io/panda-commerce/",
+    "github": "https://github.com/Yeasirarafat53/panda-commerce",
+    "description": "An online sells market website homepage design. Clients need simple but effective design for their customer.",
+    "technology": ["Bootstrap", "CSS3", "HTML5"]
+  },
+  {
+    "name": "Social Buddy",
+    "img": "https://i.postimg.cc/k5tvVHzh/1kpCvww.png",
+    "website": "https://social-buddy17.netlify.app/",
+    "github": "https://github.com/Yeasirarafat53/social-buddy",
+    "description": "An online sells market website homepage design. Clients need simple but effective design for their customer.",
+    "technology": ["Bootstrap", "CSS3", "HTML5"]
+  },
+  {
+    "name": "Shopping Cart",
+    "img": "https://i.postimg.cc/nLZh7jPb/pQ3y2eD.png",
+    "website": "https://yeasirarafat53.github.io/shopping-cart/",
+    "github": "https://github.com/Yeasirarafat53/shopping-cart",
+    "description": "An online sells market website homepage design. Clients need simple but effective design for their customer.",
+    "technology": ["Bootstrap", "CSS3", "HTML5"]
+  },
+  {
+    "name": "Weather App",
+    "img": "https://i.postimg.cc/wvQfvPsY/3oMEEGu.png",
+    "website": "https://yeasirarafat53.github.io/weatherApp/",
+    "github": "https://github.com/Yeasirarafat53/weatherApp",
+    "description": "An online sells market website homepage design. Clients need simple but effective design for their customer.",
+    "technology": ["Bootstrap", "CSS3", "HTML5"]
+  }
+]
