@@ -19,7 +19,11 @@ const Blog = () => {
             <div className="card card-blog">
               <div className="card-img">
                 <a href="https://cutt.ly/BKcwKH5 " target="/_blank">
-                  <img src="img/Blog/travel1.png" alt="" className="img-fluid" />
+                  <img
+                    src="img/Blog/travel1.png"
+                    alt=""
+                    className="img-fluid"
+                  />
                 </a>
               </div>
               <div className="card-body">
@@ -45,7 +49,11 @@ const Blog = () => {
             <div className="card card-blog">
               <div className="card-img">
                 <a href="https://cutt.ly/0Kx6CeP" target="/_blank">
-                  <img src="img/Blog/terminal.png" alt="" className="img-fluid" />
+                  <img
+                    src="img/Blog/terminal.png"
+                    alt=""
+                    className="img-fluid"
+                  />
                 </a>
               </div>
               <div className="card-body">
@@ -68,18 +76,24 @@ const Blog = () => {
           <div className="col-md-4">
             <div className="card card-blog">
               <div className="card-img">
-                <a href="blog-single.html">
-                  <img src="img/others-img/post-3.jpg" alt="" className="img-fluid" />
+                <a href="https://youtu.be/opugnMJ3fFA" target="/_blank">
+                  <img
+                    src="img/Blog/preloader.png"
+                    alt=""
+                    className="img-fluid"
+                  />
                 </a>
               </div>
               <div className="card-body">
                 <div className="card-category-box">
                   <div className="card-category">
-                    <h6 className="category">Autotype writter</h6>
+                    <h6 className="category">Preloader</h6>
                   </div>
                 </div>
                 <h3 className="card-title">
-                  <a href="blog-single.html">Autotype writter using React</a>
+                  <a href="https://youtu.be/opugnMJ3fFA" target="/_blank">
+                    Preloader in Reactjs Application
+                  </a>
                 </h3>
                 <p className="card-description">
                   Proin eget tortor risus. Pellentesque in ipsum id orci porta

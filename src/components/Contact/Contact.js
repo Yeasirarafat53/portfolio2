@@ -133,10 +133,10 @@ const Contact = () => {
 
             <div className="information">
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas
-                rem praesentium adipisci aliquid eum, placeat quae, at modi
-                ipsum voluptas architecto cum inventore ex hic earum veniam, non
-                doloribus iusto.
+                I'm a web developer with a focus on the MERN stack, but still
+                exploring other technologies and frameworks that catch my
+                interest! if you're looking for a developer to add to your team,
+                I'd love to hear from you
               </p>
             </div>
             <div className="address">
