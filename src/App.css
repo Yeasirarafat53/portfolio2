@@ -624,7 +624,7 @@ li {
   display: flex;
   justify-content: center;
   align-items: center;
-  height:100vh;
+  height: 100vh;
 }
 .loader {
   width: 100px;
@@ -706,3 +706,24 @@ li {
     right: -100px;
   }
 }
+
+/* ================
+    # footer
+=================== */
+
+.scroll {
+  background-color: rgba(15, 7, 255, 0.508);
+  right: 40px;
+  bottom: 40px;
+  position: fixed;
+  z-index: 2;
+  cursor: pointer;
+  border-radius: 50px;
+  width: 40px;
+  height: 40px;
+  transition: opacity 1s ease-in-out;
+  /* box-shadow: 0 9px 25px 0 rgb(132 128 177 / 28%); */
+  border: none;
+  outline: none;
+}
+
